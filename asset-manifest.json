@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CalcularMedia/static/css/main.03be8955.css",
+    "main.js": "/CalcularMedia/static/js/main.838634a8.js",
+    "index.html": "/CalcularMedia/index.html",
+    "main.03be8955.css.map": "/CalcularMedia/static/css/main.03be8955.css.map",
+    "main.838634a8.js.map": "/CalcularMedia/static/js/main.838634a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03be8955.css",
+    "static/js/main.838634a8.js"
+  ]
+}
